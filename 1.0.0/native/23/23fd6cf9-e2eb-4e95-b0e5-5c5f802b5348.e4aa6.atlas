@@ -1,0 +1,268 @@
+
+bigwin.png
+size: 1274,1177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win/bw_cc_normal
+  rotate: false
+  xy: 63, 1110
+  size: 324, 65
+  orig: 324, 70
+  offset: 0, 2
+  index: -1
+win/bw_coin_02_normal
+  rotate: true
+  xy: 371, 66
+  size: 325, 327
+  orig: 540, 540
+  offset: 107, 107
+  index: -1
+win/bw_vfx_e_normal
+  rotate: false
+  xy: 325, 758
+  size: 432, 257
+  orig: 432, 336
+  offset: 0, 42
+  index: -1
+win_particl02/bw_vfx_f_01
+  rotate: true
+  xy: 2, 1119
+  size: 56, 59
+  orig: 346, 749
+  offset: 145, 345
+  index: -1
+win_particl02/bw_vfx_f_02
+  rotate: true
+  xy: 389, 1089
+  size: 86, 99
+  orig: 346, 749
+  offset: 130, 325
+  index: -1
+win_particl02/bw_vfx_f_03
+  rotate: true
+  xy: 490, 1053
+  size: 122, 137
+  orig: 346, 749
+  offset: 112, 306
+  index: -1
+win_particl02/bw_vfx_f_04
+  rotate: true
+  xy: 629, 1017
+  size: 158, 181
+  orig: 346, 749
+  offset: 96, 286
+  index: -1
+win_particl02/bw_vfx_f_05
+  rotate: true
+  xy: 812, 979
+  size: 196, 225
+  orig: 346, 749
+  offset: 80, 264
+  index: -1
+win_particl02/bw_vfx_f_06
+  rotate: false
+  xy: 1039, 902
+  size: 232, 273
+  orig: 346, 749
+  offset: 66, 239
+  index: -1
+win_particl02/bw_vfx_f_07
+  rotate: true
+  xy: 2, 838
+  size: 270, 321
+  orig: 346, 749
+  offset: 50, 214
+  index: -1
+win_particl02/bw_vfx_f_08
+  rotate: true
+  xy: 2, 172
+  size: 310, 367
+  orig: 346, 749
+  offset: 32, 188
+  index: -1
+win_particl02/bw_vfx_f_11
+  rotate: true
+  xy: 757, 320
+  size: 306, 515
+  orig: 346, 749
+  offset: 1, 104
+  index: -1
+win_particl02/bw_vfx_f_12
+  rotate: true
+  xy: 700, 2
+  size: 316, 545
+  orig: 346, 749
+  offset: 1, 75
+  index: -1
+win_particl02/bw_vfx_f_19
+  rotate: true
+  xy: 759, 628
+  size: 272, 459
+  orig: 346, 749
+  offset: 53, 141
+  index: -1
+win_particl02/bw_vfx_f_20
+  rotate: true
+  xy: 2, 484
+  size: 272, 475
+  orig: 346, 749
+  offset: 56, 133
+  index: -1
+win_particl02/bw_vfx_f_21
+  rotate: false
+  xy: 479, 393
+  size: 276, 363
+  orig: 346, 749
+  offset: 55, 127
+  index: -1
+
+bigwin2.png
+size: 1248,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win/bw_cc_a_normal
+  rotate: true
+  xy: 2, 676
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+win/bw_vfx_d
+  rotate: false
+  xy: 706, 670
+  size: 540, 330
+  orig: 540, 342
+  offset: 0, 9
+  index: -1
+win_particl02/bw_vfx_f_09
+  rotate: true
+  xy: 606, 336
+  size: 332, 417
+  orig: 346, 749
+  offset: 14, 160
+  index: -1
+win_particl02/bw_vfx_f_10
+  rotate: true
+  xy: 2, 2
+  size: 346, 467
+  orig: 346, 749
+  offset: 0, 132
+  index: -1
+win_particl02/bw_vfx_f_13
+  rotate: true
+  xy: 2, 350
+  size: 324, 602
+  orig: 346, 749
+  offset: 1, 43
+  index: -1
+win_particl02/bw_vfx_f_14
+  rotate: true
+  xy: 471, 2
+  size: 332, 658
+  orig: 346, 749
+  offset: 1, 10
+  index: -1
+
+bigwin3.png
+size: 1092,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_particle/bw_vfx_c_add
+  rotate: false
+  xy: 2, 344
+  size: 654, 650
+  orig: 654, 650
+  offset: 0, 0
+  index: -1
+bigwin_particle/particle_a_loop_add
+  rotate: false
+  xy: 658, 58
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+win_particl02/bw_vfx_f_15
+  rotate: true
+  xy: 2, 2
+  size: 340, 645
+  orig: 346, 749
+  offset: 1, 39
+  index: -1
+
+bigwin4.png
+size: 1177,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_particle/particle_b_loop_add
+  rotate: false
+  xy: 2, 108
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+win_particl02/bw_vfx_f_16
+  rotate: true
+  xy: 436, 350
+  size: 346, 693
+  orig: 346, 749
+  offset: 0, 13
+  index: -1
+win_particl02/bw_vfx_f_17
+  rotate: true
+  xy: 436, 698
+  size: 346, 739
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+win_particl02/bw_vfx_f_18
+  rotate: true
+  xy: 436, 2
+  size: 346, 597
+  orig: 346, 749
+  offset: 0, 152
+  index: -1
+
+bigwin5.png
+size: 1144,816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_particle/bw_solid_a_add
+  rotate: false
+  xy: 424, 404
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+bigwin_particle/bw_vfx_b_add
+  rotate: false
+  xy: 2, 2
+  size: 390, 390
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+bigwin_particle/mw_vfx_b_add
+  rotate: false
+  xy: 394, 2
+  size: 390, 390
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+bigwin_particle/smw_vfx_b_add
+  rotate: false
+  xy: 2, 394
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+win/bw_coin_01_normal
+  rotate: false
+  xy: 786, 42
+  size: 356, 360
+  orig: 540, 540
+  offset: 92, 91
+  index: -1

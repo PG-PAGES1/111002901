@@ -1,0 +1,47 @@
+
+freestrat.png
+size: 940,1249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin_particle/bw_solid_a_add
+  rotate: false
+  xy: 2, 436
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+free01/tw_vfx_a_add
+  rotate: false
+  xy: 2, 1062
+  size: 329, 185
+  orig: 329, 185
+  offset: 0, 0
+  index: -1
+free01/tw_vfx_b_add
+  rotate: true
+  xy: 2, 2
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+freeprocess/bl_icon
+  rotate: false
+  xy: 333, 848
+  size: 536, 399
+  orig: 536, 399
+  offset: 0, 0
+  index: -1
+
+freestrat2.png
+size: 436,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freetrigger
+  rotate: false
+  xy: 2, 2
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1

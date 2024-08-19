@@ -1,0 +1,104 @@
+
+multiplier.jpg
+size: 492,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier/multiplier_vfx_b_add_00
+  rotate: true
+  xy: 432, 112
+  size: 34, 39
+  orig: 238, 238
+  offset: 102, 100
+  index: -1
+multiplier/multiplier_vfx_b_add_01
+  rotate: false
+  xy: 432, 148
+  size: 58, 66
+  orig: 238, 238
+  offset: 90, 87
+  index: -1
+multiplier/multiplier_vfx_b_add_02
+  rotate: true
+  xy: 2, 2
+  size: 84, 90
+  orig: 238, 238
+  offset: 77, 74
+  index: -1
+multiplier/multiplier_vfx_b_add_03
+  rotate: false
+  xy: 328, 110
+  size: 102, 104
+  orig: 238, 238
+  offset: 67, 67
+  index: -1
+multiplier/multiplier_vfx_b_add_04
+  rotate: false
+  xy: 214, 106
+  size: 112, 108
+  orig: 238, 238
+  offset: 62, 65
+  index: -1
+multiplier/multiplier_vfx_b_add_05
+  rotate: false
+  xy: 365, 216
+  size: 116, 110
+  orig: 238, 238
+  offset: 60, 64
+  index: -1
+multiplier/multiplier_vfx_b_add_06
+  rotate: false
+  xy: 2, 212
+  size: 119, 114
+  orig: 238, 238
+  offset: 59, 63
+  index: -1
+multiplier/multiplier_vfx_b_add_07
+  rotate: false
+  xy: 123, 216
+  size: 119, 110
+  orig: 238, 238
+  offset: 58, 64
+  index: -1
+multiplier/multiplier_vfx_b_add_08
+  rotate: true
+  xy: 2, 88
+  size: 122, 108
+  orig: 238, 238
+  offset: 58, 65
+  index: -1
+multiplier/multiplier_vfx_b_add_09
+  rotate: false
+  xy: 244, 216
+  size: 119, 110
+  orig: 238, 238
+  offset: 59, 67
+  index: -1
+multiplier/multiplier_vfx_b_add_10
+  rotate: true
+  xy: 112, 93
+  size: 117, 100
+  orig: 238, 238
+  offset: 58, 69
+  index: -1
+multiplier/multiplier_vfx_b_add_11
+  rotate: false
+  xy: 214, 2
+  size: 117, 102
+  orig: 238, 238
+  offset: 55, 68
+  index: -1
+multiplier/multiplier_vfx_b_add_12
+  rotate: false
+  xy: 333, 31
+  size: 114, 77
+  orig: 238, 238
+  offset: 61, 72
+  index: -1
+multiplier/multiplier_vfx_b_add_13
+  rotate: false
+  xy: 94, 9
+  size: 85, 77
+  orig: 238, 238
+  offset: 88, 75
+  index: -1
